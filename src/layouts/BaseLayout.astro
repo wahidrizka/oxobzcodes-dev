@@ -1,4 +1,7 @@
 ---
+import Navbar from '../components/layout/Navbar.astro';
+import Footer from '../components/layout/Footer.astro';
+
 interface Props {
   title: string;
   description: string;
@@ -37,6 +40,8 @@ const ogImage = image || '/images/og-default.jpg';
     <link rel="icon" href="/favicon.ico" />
   </head>
   <body class="min-h-screen bg-background text-foreground font-sans antialiased">
+    <Navbar />
     <slot />
+    <Footer />
   </body>
 </html>
