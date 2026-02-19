@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bpdp-2026",
+    "company": "BPDP (Badan Pengelola Dana Perkebunan)",
+    "companyUrl": "https://bpdp.or.id",
+    "role": "Software Developer",
+    "type": "contract",
+    "period": { "start": "2026-01", "end": null },
+    "current": true,
+    "location": "Jakarta, Indonesia",
+    "locationType": "onsite",
+    "description": "Mengerjakan re-engineering website bpdp.or.id, migrasi database MySQL ke PostgreSQL, dan koordinasi dengan vendor ekosistem IT BPDP.",
+    "highlights": [
+      "Migrasi database MySQL ke PostgreSQL",
+      "Re-engineering website bpdp.or.id",
+      "Koordinasi vendor ERP, HRIS, eOffice v3, dan middleware API"
+    ],
+    "stack": ["NestJS", "PostgreSQL", "React", "TypeScript"]
+  },
+  {
+    "id": "melkhior-2024",
+    "company": "Melkhior Teknologi",
+    "companyUrl": "",
+    "role": "Full-Stack Developer",
+    "type": "fulltime",
+    "period": { "start": "2024-06", "end": "2025-12" },
+    "current": false,
+    "location": "Jakarta, Indonesia",
+    "locationType": "hybrid",
+    "description": "Mengerjakan infrastruktur perbankan CIMB Niaga.",
+    "highlights": ["Kontribusi pada sistem perbankan CIMB Niaga"],
+    "stack": ["Java Spring Boot", "React", "PostgreSQL"]
+  },
+  {
+    "id": "trusta-2023",
+    "company": "Trusta Technologies",
+    "companyUrl": "",
+    "role": "Odoo Developer",
+    "type": "fulltime",
+    "period": { "start": "2023-01", "end": "2024-05" },
+    "current": false,
+    "location": "Indonesia",
+    "locationType": "remote",
+    "description": "Pengembangan modul Odoo ERP untuk berbagai klien.",
+    "highlights": ["Pengembangan modul Odoo ERP kustom"],
+    "stack": ["Python", "Odoo", "PostgreSQL"]
+  },
+  {
+    "id": "larissa-2022",
+    "company": "Larissa Aesthetic Center",
+    "companyUrl": "",
+    "role": "Full-Stack Developer",
+    "type": "fulltime",
+    "period": { "start": "2022-01", "end": "2022-12" },
+    "current": false,
+    "location": "Yogyakarta, Indonesia",
+    "locationType": "onsite",
+    "description": "Pengembangan sistem e-commerce dan manajemen klinik.",
+    "highlights": ["Pengembangan sistem e-commerce", "Manajemen data klinik"],
+    "stack": ["PHP Laravel", "MySQL", "JavaScript"]
+  }
+]
