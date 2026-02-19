@@ -1,0 +1,16 @@
+{
+  "name": "Wahid Rizka Fathurrohman",
+  "nickname": "Wahid",
+  "role": "Full-Stack Developer",
+  "tagline": "Membangun sistem yang scalable dan maintainable dari backend hingga frontend.",
+  "avatar": "/images/avatar.jpg",
+  "location": "Jakarta, Indonesia",
+  "availableForWork": true,
+  "email": "hello@oxobzcodes.dev",
+  "resumeUrl": "/resume.pdf",
+  "socials": {
+    "github": "https://github.com/wahidrizka",
+    "linkedin": "https://linkedin.com/in/wahidrizka",
+    "twitter": ""
+  }
+}

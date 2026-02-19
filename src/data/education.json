@@ -1,0 +1,14 @@
+[
+  {
+    "id": "amikom",
+    "institution": "Universitas AMIKOM",
+    "institutionUrl": "https://amikom.ac.id",
+    "degree": "S1",
+    "major": "Informatika",
+    "period": { "start": "2020", "end": null },
+    "current": true,
+    "location": "Yogyakarta, Indonesia",
+    "gpa": null,
+    "highlights": []
+  }
+]
