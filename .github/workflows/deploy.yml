@@ -1,4 +1,4 @@
-name: Deploy to Wahid Rizka's GCloud Server
+name: Continuous Deployment
 
 on:
   push:
