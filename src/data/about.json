@@ -1,0 +1,10 @@
+{
+  "bio": [
+    "Saya adalah seorang Full-Stack Developer dengan pengalaman lebih dari 2 tahun...",
+    "Saya percaya bahwa kode yang baik bukan hanya yang bekerja, tetapi yang mudah dipahami dan dipelihara."
+  ],
+  "personality": ["Problem Solver", "Detail Oriented", "Fast Learner"],
+  "interests": ["Backend Architecture", "DevOps", "Open Source"],
+  "currentFocus": "Mengerjakan re-engineering sistem BPDP sambil membangun portfolio ini.",
+  "funFact": "Saya mulai coding dari competitive programming, bukan tutorial YouTube."
+}

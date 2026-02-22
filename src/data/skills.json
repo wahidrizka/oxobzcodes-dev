@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Frontend",
+    "items": [
+      { "name": "React", "level": "expert", "icon": "react" },
+      { "name": "Next.js", "level": "advanced", "icon": "nextjs" },
+      { "name": "Astro", "level": "intermediate", "icon": "astro" },
+      { "name": "Tailwind CSS", "level": "expert", "icon": "tailwind" },
+      { "name": "TypeScript", "level": "advanced", "icon": "typescript" }
+    ]
+  },
+  {
+    "category": "Backend",
+    "items": [
+      { "name": "PHP Laravel", "level": "expert", "icon": "laravel" },
+      { "name": "NestJS", "level": "advanced", "icon": "nestjs" },
+      { "name": "Java Spring Boot", "level": "intermediate", "icon": "spring" },
+      { "name": "Node.js", "level": "advanced", "icon": "nodejs" }
+    ]
+  },
+  {
+    "category": "Database",
+    "items": [
+      { "name": "PostgreSQL", "level": "advanced", "icon": "postgresql" },
+      { "name": "MySQL", "level": "expert", "icon": "mysql" }
+    ]
+  },
+  {
+    "category": "DevOps & Tools",
+    "items": [
+      { "name": "Docker", "level": "intermediate", "icon": "docker" },
+      { "name": "GitHub Actions", "level": "intermediate", "icon": "github" },
+      { "name": "Nginx", "level": "intermediate", "icon": "nginx" },
+      { "name": "Git", "level": "expert", "icon": "git" }
+    ]
+  }
+]
